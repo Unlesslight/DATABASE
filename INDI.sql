@@ -4,6 +4,7 @@
 -- No CONSTRAINT on Upper Country
 -- Basic IDs
 -- ALL of the country got their French Name
+-- sauce : https://phpsources.net/code/php/banques-de-donnees/1000_indicatifs-telephoniques
 -- ===========================================================================================================================
 -- ===========================================================================================================================
 
